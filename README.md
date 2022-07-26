@@ -1,5 +1,5 @@
-# File System Management 
-C Program implementing a multiple client server communication with pipes in a Linux OS with C programming language.
+# Operating Systems in C
+C Program implementing a multiple client server communication in a Linux OS with C programming language.
 
 ## Table of Contents
 1. [General Info](#general-info)
@@ -22,7 +22,7 @@ A list of technologies used within the project:
 ## Installation
 ***
 ```
-$ git clone https://github.com/OscarCubeles/Filesystem-Management.git
+$ git clone https://github.com/OscarCubeles/OperatingSystems-in-C.git
 $ make
 ```
 
